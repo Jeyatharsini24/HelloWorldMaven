@@ -1,0 +1,1 @@
+Create with maven-archetype-quickstart from catalogs
